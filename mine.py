@@ -5,8 +5,8 @@ root = tk.Tk()
 root.title("Minesweeper")
 
 # default values
-rows = 10
-cols = 10
+rows = 9
+cols = 9
 mines = 10
 
 # Create the grid
